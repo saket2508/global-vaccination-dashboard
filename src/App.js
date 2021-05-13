@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ReactMapGL, {Source, Layer, Marker, Popup} from 'react-map-gl';
+import ReactMapGL, { Marker, Popup } from 'react-map-gl';
 
 function App() {
 
